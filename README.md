@@ -71,8 +71,7 @@
 </p>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/juandie09/juandie09/main/resources/img/github-contribution-grid-snake.svg"
-    alt="Juan Diego Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/juandie09/juandie09/output/github-contribution-grid-snake.svg" alt="Juan Diego Contribution Snake" />
 </p>
 
 <br>
