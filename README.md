@@ -69,8 +69,8 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/juan-diego-bernal-lopez-1609422aa" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="mailto:juandiegobernal9@gmail.com" target="_blank">
-  <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Juan Diego Gmail" height="30" width="40" />
+<a href="mailto:juandiegobernal9@gmail.com">
+  <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail de Juan Diego" height="30" width="40" />
 </a>
 <a href="https://github.com/juandie09" target="blank"> <img align="center" alt="https://github.com/juandie09" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
