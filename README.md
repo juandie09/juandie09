@@ -7,12 +7,11 @@
 <br />
 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **juandiegobernal9@gmail.com**
+- 📫 Reach me at **juandiegobernal9@gmail.com**
 - 📝 I study at National University of Colombia
-- 💬 Ask me about my projects, I will be 
-- 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
-	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+- 💬 Ask me about my projects, I will be delighted to listen to you
+
+
 
 ## 💻 Technologies 
 
