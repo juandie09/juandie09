@@ -1,5 +1,5 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ <img align="right" height="270px" alt="guy" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFiZGdlOWN4cGJueDBncHQ1bnZpOW9maG52MXRiMno1bXFreTdociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7Zex6JVnN4OgCSgU/giphy.gif" /> </a>
  
 ### <h1>Hi 👋 I am Juan Diego Bernal Lopez</h1>
 
