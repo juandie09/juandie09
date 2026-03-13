@@ -1,15 +1,26 @@
+<table>
+<tr>
+<td>
 
- <img align="right" height="270px" alt="guy" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFiZGdlOWN4cGJueDBncHQ1bnZpOW9maG52MXRiMno1bXFreTdociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7Zex6JVnN4OgCSgU/giphy.gif" /> </a>
- 
-### <h1>Hi 👋 I am Juan Diego Bernal Lopez</h1>
+# Hi 👋 I am Juan Diego Bernal Lopez
 
-> I am Geology student and an aspiring Data Science and Analytics student
-<br />
+> I am a Geology student and an aspiring Data Science & Analytics student
 
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/juan-diego-bernal-lopez-1609422aa)**
+- 💻 Connect with me on **LinkedIn**
 - 📫 Reach me at **juandiegobernal9@gmail.com**
 - 📝 I study at National University of Colombia
 - 💬 Ask me about my projects, I will be delighted to listen to you
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/3o7Zex6JVnN4OgCSgU/giphy.gif" width="350">
+
+</td>
+</tr>
+</table>
+
 
 
 
