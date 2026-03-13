@@ -46,8 +46,6 @@
 </p>
 
 
-<br><br>
-
 ## 🚥 Activity
 
 <p align="center">
