@@ -6,7 +6,7 @@
 > I am Geology student and an aspiring Data Science and Analytics student
 <br />
 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/juan-diego-bernal-lopez-1609422aa)**
 - 📫 Reach me at **juandiegobernal9@gmail.com**
 - 📝 I study at National University of Colombia
 - 💬 Ask me about my projects, I will be delighted to listen to you
