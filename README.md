@@ -50,34 +50,30 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iscpatricio92&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="iscpatricio92" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandie09&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Juan Diego Top Languages" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iscpatricio92&show_icons=true&locale=en&theme=chartreuse-dark" alt="iscpatricio92" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=juandie09&show_icons=true&locale=en&theme=chartreuse-dark" alt="Juan Diego Stats" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
 
-![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Juan Diego's Graph](https://github-readme-activity-graph.vercel.app/graph?username=juandie09&custom_title=Juan%20Diego's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
 </p>
 <br>
 
-
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=iscpatricio92&layout=compact&theme=algolia" alt="iscpatricio92" />
+  <img src="https://github-profile-trophy.vercel.app/?username=juandie09&layout=compact&theme=algolia" alt="Juan Diego Trophies" />
  </a>
 </p>
 
-
-
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
-    alt="iscpatricio92" />
+  <img  src="https://raw.githubusercontent.com/juandie09/juandie09/main/resources/img/github-contribution-grid-snake.svg"
+    alt="Juan Diego Contribution Snake" />
 </p>
-
 
 <br>
 
