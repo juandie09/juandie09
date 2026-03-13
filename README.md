@@ -59,20 +59,7 @@
 
 ![Juan Diego's Graph](https://github-readme-activity-graph.vercel.app/graph?username=juandie09&custom_title=Juan%20Diego's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-<br>
 
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=juandie09&layout=compact&theme=algolia" alt="Juan Diego Trophies" />
- </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juandie09/juandie09/output/github-contribution-grid-snake.svg" alt="Juan Diego Contribution Snake" />
-</p>
 
 <br>
 
